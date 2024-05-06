@@ -1,0 +1,5 @@
+mongodb+srv://username:password@cluster2.tjazwlc.mongodb.net/
+
+user@example.com
+password123
+
